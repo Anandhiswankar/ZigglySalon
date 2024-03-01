@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679967444799",
+    "project_id": "ziggly-60826",
+    "storage_bucket": "ziggly-60826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679967444799:android:f62de969b36f73a35c4d8a",
+        "android_client_info": {
+          "package_name": "com.signimus.ziggly.salon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8v-g4Iv8YEVOKaDe9adpxLRkptC-77SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
