@@ -112,11 +112,11 @@ class _loginScreenState extends State<loginScreen> {
                 ),
               ),
             ),
-            SizedBox(
-              child: authIconBtn(
-                isgoogle: false,
-              ),
-            ),
+            // SizedBox(
+            //   child: authIconBtn(
+            //     isgoogle: false,
+            //   ),
+            // ),
             SizedBox(
               height: 20,
             ),
